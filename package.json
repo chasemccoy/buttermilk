@@ -1,0 +1,14 @@
+{
+  "name": "@chasemccoy/buttermilk",
+  "version": "0.1.0",
+  "description": "Chase McCoy's portable, universal design system. ",
+  "main": "index.js",
+  "author": "Chase McCoy",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
